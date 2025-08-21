@@ -4,6 +4,9 @@ In this exercise you will create a simple Spring Boot application which can make
 
 Within the project code, you will find comments containing **TODO** instructions.  These instructions match the order of instructions in this lab document.  If you find it easier, you can complete this lab by following the embedded **TODO** comments; just make sure you follow them in order.
 
+Estimated time: 25 minutes.
+
+
 ---
 **Part 1 - Setup StabilityAI Account**
 

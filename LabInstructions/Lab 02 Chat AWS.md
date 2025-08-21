@@ -6,7 +6,9 @@ Within the codebase you will find ordered *TODO* comments that describe what act
 
 Solution code is provided for you in a separate folder, so you can compare your work if needed.  For maximum benefit, try to complete the lab without looking at the solution.
 
-Let's jump in.
+Let's jump in.  
+
+Estimated time: 20 minutes.
 
 ---
 **Part 1 - Setup the Project**

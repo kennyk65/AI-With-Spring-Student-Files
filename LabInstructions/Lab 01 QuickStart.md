@@ -2,6 +2,7 @@
 
 - In this exercise you will create a simple Spring Boot application which can make calls to OpenAI.  You will need to establish credentials with OpenAI first, so let's take care of that now.
 
+- Estimated time: 25 minutes.
 
 ---
 **Part 1 - Obtain an Account with OpenAI**

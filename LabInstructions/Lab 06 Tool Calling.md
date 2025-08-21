@@ -6,6 +6,9 @@ An example is combining general knowlege about a given company with its current 
 
 > The stock ticker symbol 'TSLA' belongs to Tesla, Inc. Tesla is a renowned electric vehicle and clean energy company. The current stock price for Tesla is $174.11 
 
+Estimated time: 25 minutes.
+
+
 ---
 **Part 1 - Setup the Project**
 

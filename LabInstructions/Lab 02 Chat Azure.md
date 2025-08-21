@@ -10,6 +10,9 @@ Solution code is provided for you in a separate folder, so you can compare your 
 
 Let's jump in.
 
+Estimated time: 20 minutes.
+
+
 ---
 **Part 1 - Setup the Project**
 

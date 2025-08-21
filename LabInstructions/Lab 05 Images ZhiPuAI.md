@@ -6,6 +6,9 @@ Within the project code, you will find comments containing **TODO** instructions
 
 Be aware that [ZhiPu AI](https://open.bigmodel.cn/) is based in China.  When working with the API, error messages are presented in Chinese symbols which you will need to translate (try Google Translate) unless you are fluent in the language.  Token purchases cannot be made using standard payment techniques such as credit cards.
 
+Estimated time: 25 minutes.
+
+
 ---
 **Part 1 - Setup ZhiPuAI Account**
 
