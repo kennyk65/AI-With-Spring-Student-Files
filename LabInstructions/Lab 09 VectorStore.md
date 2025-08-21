@@ -51,7 +51,7 @@ Next we will need to establish a VectorStore `@Bean`; the in-memory implementati
 
 1. **TODO-02:** Define a bean method named "vectorStore" of type `VectorStore`.
     * The method should accept an `EmbeddingModel` parameter
-    * Have it instantiate and return a `new SimpleVectorStore` injected with the given `EmbeddingModel`.
+    * Have it use the SimpleVectorStore's builder method to inject the given `EmbeddingModel`.
 	* Use `@Profile` to assign this bean to the "simple-vector-store" profile.
         * This will allow us to easily substitute this `@Bean` later if we switch to Redis or PGVector.
 
@@ -59,8 +59,8 @@ Next we will need to establish a VectorStore `@Bean`; the in-memory implementati
         @Bean
         @Profile("simple-vector-store")
         public VectorStore vectorStore(EmbeddingModel embeddingModel) {
-            return new SimpleVectorStore(embeddingModel);
-        }
+            return SimpleVectorStore.builder(embeddingModel).build();
+        }        
     ```
 
 1. Organize your imports, save your work.
